@@ -14,7 +14,7 @@ The topic of this vignette is related to using NLPs to train a poetry generator 
 
 The repository contains our README file with a description of our project, poetry corpus as a JSON file (data/gutenberg-poetry-v001.ndjson.gz), the Edgar Allen Poe poetry corpus dataset (data/poetry_poe.ndjson), and our final vignette (Primary Vignette.ipynb).
 
-The code used to subset lines of poetry written by Edgar Allen Poe is stored in scratchwork/Poe_Corpus.ipynb. To create a corpus of work from a different poet, one can oepn this script and write the name of a different author in it to generate poetry in the style of another poet.
+The code used to subset lines of poetry written by Edgar Allen Poe is stored in scratchwork/Poe_Corpus.ipynb. To create a corpus of work from a different poet, one can open this script and write the name of a different author in it to generate poetry in the style of another poet.
 
 # References
 
